@@ -1,0 +1,114 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none; 
+    font-size: 25px;              
+}
+ header ul li{
+    padding:1.5rem;
+    text-align: center;
+    float:left;             
+ }
+ .header{
+    margin-left: 15rem;
+ }
+ .home{
+     background-color: rgb(78, 148, 20);             
+ }
+ .ispace{
+     text-align: center;
+     margin: 1rem;
+ }
+ .space{
+    font-size: 3rem;              
+ }
+ .i{ 
+     font-size: 3rem;
+     color: rgb(78, 148, 20) ;
+ }
+ .img1{
+     width: 90%;
+     margin: 1.5rem 0;              
+     margin-left:4rem;      
+ }
+ .radio{
+     text-align: center;
+     }      
+.row4c1, .row4c2, .row4c3{
+     float: left;
+     width: 30%;
+     margin: .8rem;
+     text-align: center;              
+ }           
+.row4c1 img, .row4c2 img, .row4c3 img{
+     width:100%;
+     display: block;
+     height: 25rem;   
+ }
+ .head{
+     padding: 2rem;
+     background-color: rgb(78, 148, 20) ;
+ }
+ .foot{
+     padding: 2rem;
+     color: white;
+     background-color: rgb(116, 111, 111);
+ }
+.row4{
+    margin-left: 3rem;        
+    }
+ 
+.row5c1, .row5c2, .row5c3{
+    float: left;
+    width: 30%;
+    margin: .8rem;
+    height: rem;
+    background-color: white;
+    text-align: left;
+    padding: 1.5rem;
+}
+
+ .row5{
+    margin-left: 3rem;
+ }
+ .btn{
+     float: left;
+     margin: 1rem;
+     color: white;
+     background-color: dimgray;
+     padding: .5rem;
+ }
+ .row6c1, .row6c2{
+     float: left;
+     width: 43%;
+     color: white;
+     background-color: dimgray;
+     font-size: 2rem;
+ }
+ .no15, .dollar{
+     float: left;
+     color: white;
+     background-color:rgb(78, 148, 20);
+     padding: 2rem;
+     font-size: 2rem;
+     margin-right: 1rem;
+ }    
+  .footer-text{
+      padding-top: 1rem;
+  }
+ .row6c1{
+     margin-left:4rem;
+     margin-right:4rem;
+ }
+ .authour{
+     color: brown;
+     text-align: center;
+     padding: 1rem;
+     width: 91.4%;
+     margin-left: 3rem;
+ }
+ .clear{
+     clear: both;
+ }
